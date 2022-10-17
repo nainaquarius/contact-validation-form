@@ -1,0 +1,16 @@
+body{
+    background-image: url(/images/voltage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.foot{
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    margin: 20px;
+    background-color: lightgray;
+    opacity: 0.8;
+}
+#submit{
+    display: none;
+}
